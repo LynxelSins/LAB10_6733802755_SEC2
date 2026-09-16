@@ -34,7 +34,7 @@ public class ProductRepository {
         store.put("2", new Product("2", "MacBook Air M3",
                 "Electronics", "Apple", 20, 49900.0, "NONE"));
         store.put("3", new Product("3", "Samsung Galaxy S24",
-                "Electronics", "Samsung", 30, 29900.0, "SEASONAL"));
+                "Appliances", "Samsung", 30, 29900.0, "SEASONAL"));
     }
 
     // ── 1. หา Product 1 รายการ ───────────────────────────
